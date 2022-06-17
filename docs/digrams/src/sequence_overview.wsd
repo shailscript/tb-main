@@ -1,0 +1,6 @@
+@startuml
+!theme lightgray 
+scale 2
+User -> System: Do this
+System -> User: Done
+@enduml
