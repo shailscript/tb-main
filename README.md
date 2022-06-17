@@ -1,11 +1,13 @@
-# Ticksbook Main [WIP]
+# Ticksbook Main
 
 ## Table of Contents
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 
 ## Introduction
-This project aims to track trades for a trading portflio. It leverages DDD, Event Sourcing, and CQRS.
+> This is a work in progress, and I am on the eventstorming phase currently.
+
+This project aims to track trades for a trading portfolio. It leverages Domain Driven Design, Event Sourcing, and Command-Query Responsibility Segregation.
 
 ## Technologies
-- Nx Monorepo (https://nx.dev/)
+- Nx Monorepo (https://nx.dev)
