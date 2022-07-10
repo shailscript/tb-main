@@ -9,6 +9,7 @@
     "@nrwl/eslint-plugin-nx": "14.1.9",
     "@nrwl/js": "14.3.5",
     "@nrwl/linter": "14.1.9",
+    "@nrwl/nest": "^14.4.2",
     "@nrwl/workspace": "14.3.5",
     "@typescript-eslint/eslint-plugin": "^5.13.0",
     "@typescript-eslint/parser": "5.18.0",
