@@ -12,5 +12,5 @@ This project aims to track trades for a trading portfolio. It leverages Domain D
 ## Technologies
 - Nx Monorepo (https://nx.dev)
 - TypeScript (https://www.typescriptlang.org)
-- Node.js (https://nodejs.org)
+- Nest.js (https://nestjs.com)
 - EventStoreDB (https://www.eventstore.com)
